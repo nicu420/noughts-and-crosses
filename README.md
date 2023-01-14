@@ -1,3 +1,2 @@
 # noughts-and-crosses
-aka tic-tac-toe
-aka Xs and Os
+Also known as tic-tac-toe or Xs and Os
